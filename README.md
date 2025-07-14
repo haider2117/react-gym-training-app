@@ -8,7 +8,7 @@ Swoldier is a React-based web application that generates personalized workout ro
 
 🔗 [Visit Live App on Netlify](https://gym-trainer-01.netlify.app)
 
-
+---
 
 ## 🚀 Features
 
