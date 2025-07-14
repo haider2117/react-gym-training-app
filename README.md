@@ -1,10 +1,14 @@
 # 💪 Swoldier - AI-Powered Workout Generator
 
-![Swoldier Banner](https://placehold.co/1200x400?text=Swoldier+-+AI+Workout+Generator)
-
 Swoldier is a React-based web application that generates personalized workout routines based on your fitness goals, preferred workout type, and target muscle groups. Whether you're aiming for strength, hypertrophy, or endurance, Swoldier crafts the perfect workout plan for you.
 
 ---
+
+## 🌐 Live Demo
+
+🔗 [Visit Live App on Netlify](https://gym-trainer-01.netlify.app)
+
+
 
 ## 🚀 Features
 
